@@ -4,10 +4,10 @@ XML Parser for Mount and Blade 2: Bannerlord translation
 For commando.com.ua
 By Annihilator
 
-If it finds simmilar id's in both files, replaces text argument in first file from second file
+If it finds simmilar ID's in both files, it replaces text argument in first file from second file
 
 Usage:
-python parser.py --first --second
+python parser.py --first path_to_first --second path_to_second
 
 --first : Path to first XML
 --second : Path to second XML
